@@ -1,4 +1,3 @@
-# landing-page
 <h1>TOP Foundations Landing Page </h1>
 
 <h3>Sources for icons and images:</h3>
