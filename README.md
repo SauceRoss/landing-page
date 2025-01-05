@@ -16,3 +16,4 @@ Second Section:
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYk594AhSKw5Eb3iHkPHs_XmpCqaRVgu0mvg&s
 https://freebiesupply.com/logos/css3-logo/
 https://icon2.cleanpng.com/20190129/jba/kisspng-javascript-web-applications-scalable-vector-graphi-1713908433870.webp
+https://banner2.cleanpng.com/20180425/jrw/ave9tlfdy.webp
