@@ -19,7 +19,7 @@ body {
     font-weight: 900;
     display: flex;
     align-items: center;
-    background-color: #1F2937;
+    background-color: black;
     color: aliceblue;
 }
 
@@ -46,7 +46,7 @@ a:hover {
 
                                              /* First section of page */
 .s1 {
-   background-color: #1F2937;             
+   background-color: green;             
    padding-left: 100px;padding-right: 100px;
    border-top: solid aliceblue;
    display: flex;
@@ -62,7 +62,7 @@ a:hover {
 }
 
 .subhead {
-   color: aliceblue;
+   color: black;
    display: flex;
    flex-direction: column;
    gap: 1vh;
@@ -86,7 +86,8 @@ button {
 }
 
 button:hover {
-   background-color: green;
+   background-color: black;
+   color: white;
 }
 
 .image{
@@ -99,8 +100,8 @@ button:hover {
                                              /* End of First Page Section */                                     
 
                                              /* Start of Second Page Section */
-.s2 {background-color:rgb(202, 202, 202);
-   border-top: solid aliceblue;
+.s2 {background-color:black;
+   box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
    height: 700px;
    display: flex;
    flex-direction: column;
@@ -109,11 +110,19 @@ button:hover {
    flex: 1;
 }
 
+.icons {
+   display: flex;
+   flex: 1;
+   justify-content: center;
+   align-items: center;
+   gap: 30vh;
+}
+
                                              /* End of Second Page Section */                                     
 
                                              /* Start of Third Section */
 .s3 {background-color: green;
-   border-top: solid aliceblue;
+   border-top: solid black;
    height: 300px;
    display: flex;
    flex-direction: column;
@@ -121,12 +130,20 @@ button:hover {
    justify-content: center;
 }
 
+.author {
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-end;
+   align-items: flex-end;
+   width: 100vh;
+}
+
                                              /* End of Third Page Section */                                     
 
                                              /* Start of Fourth Page Section */
 .s4 {background-color: rgb(202, 202, 202);
-    border-top: solid aliceblue;
-    border-bottom: solid aliceblue;
+    border-top: solid black;
+    border-bottom: solid black;
     height: 300px;
     display: flex;
     flex: 1;
