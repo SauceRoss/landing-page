@@ -1,6 +1,6 @@
 <h1>TOP Foundations Landing Page </h1>
 
-<h2 style="color: red">Sources for icons and images:</h2>
+<h2 style="color: red">Sources for icons and images</h2>
 
 <h6>Header:</h4>
 <ul>
